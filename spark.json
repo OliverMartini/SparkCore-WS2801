@@ -1,0 +1,8 @@
+{
+    "name": "Adafruit_WS2801",
+    "version": "0.0.1",
+    "author": "Adafruit, Technobly, OliverMartini",
+    "license": "MIT",
+    "description": "An Implementation of Adafruit's WS2801 Library for the Spark Core",
+    "namespace": "Adafruit_WS2801"
+}
